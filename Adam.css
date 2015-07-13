@@ -1,0 +1,19 @@
+body {font-family:"Lato";
+	  text-align:center;
+	  margin-top:2cm;}
+
+h1 {
+	font-size:60px;
+	/*text-transform: uppercase;*/
+
+
+	}
+
+p {font-size: 12px;}
+
+body img { width: 300px;
+		 max-height:auto; }
+
+.fancy {font-family:Cursive;
+		font-size:30px;}
+
